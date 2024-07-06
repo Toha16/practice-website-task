@@ -1,0 +1,33 @@
+.container{
+    
+    margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f4f4f4;
+            border: 2px solid red;
+}
+.img{
+    background-size: cover;
+    /* width: 310px; */
+    width: 50%;
+}
+.img img{
+    width: 100%;
+}
+.section{
+    padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content:flex-start;
+            align-items:center ;
+            text-align: center;
+            margin: 0;
+            font-size: 24px;
+            width: 50%;
+            
+            
+}
+
+
